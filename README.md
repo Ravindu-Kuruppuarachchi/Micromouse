@@ -1,12 +1,6 @@
-[![youtube.com/watch?v=z7hg...](https://images.openai.com/thumbnails/url/EzCvc3icu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4sdw4wtkx09i40DwrPM8gIjU8uC3f2skg0KakMLNPNLqzKS3FJCXNLDsgLCUmOzzbxS_UMKTErNA3zKVcrBgAXhioM)](https://www.youtube.com/watch?v=Z7HGKb60UPw&utm_source=chatgpt.com)
-
-Certainly! Here's a comprehensive README tailored for your Micromouse project repository:
-
----
 
 # Micromouse – Autonomous Maze-Solving Robot
 
-![Micromouse Robot](https://github.com/Ravindu-Kuruppuarachchi/Micromouse/raw/main/images/micromouse.jpg)
 
 ## Overview
 
@@ -94,4 +88,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to modify this README as per your project's specifics. Let me know if you need further assistance!
