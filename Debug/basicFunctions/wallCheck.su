@@ -1,0 +1,3 @@
+../basicFunctions/wallCheck.c:9:5:wallFront	8	static
+../basicFunctions/wallCheck.c:19:5:wallLeft	8	static
+../basicFunctions/wallCheck.c:29:5:wallRight	8	static

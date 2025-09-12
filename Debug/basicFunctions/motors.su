@@ -1,0 +1,6 @@
+../basicFunctions/motors.c:121:6:foward	8	static
+../basicFunctions/motors.c:171:6:stop	8	static
+../basicFunctions/motors.c:178:6:Turnright	16	static
+../basicFunctions/motors.c:236:6:Turnleft	16	static
+../basicFunctions/motors.c:294:5:constrain	24	static
+../basicFunctions/motors.c:301:6:cellBreak	8	static
