@@ -11,6 +11,12 @@ The Micromouse project is an autonomous robot designed to navigate and solve a 1
 
 The robot employs advanced algorithms and sensor fusion to explore the maze and determine the optimal path to the center.
 
+<div align="center">
+ 
+![](Maze.png)
+
+</div>
+
 ---
 
 ## 🧠 Hardware Components
@@ -78,6 +84,12 @@ The firmware is developed using STM32CubeIDE and HAL libraries. It includes:
 
 ## 📸 Gallery
 
+<div align="center">
+ 
+![](Initial_PCB.png) 
+![](Main_PCB.png)
+![](Main_PCB1.png)
+</div>
 
 
 ---
