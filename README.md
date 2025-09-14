@@ -85,7 +85,7 @@ The firmware is developed using STM32CubeIDE and HAL libraries. It includes:
 ## 📸 Gallery
 
 <div align="center">
- 
+
 ![](Initial_PCB.png) 
 ![](Main_PCB.png)
 ![](Main_PCB1.png)
